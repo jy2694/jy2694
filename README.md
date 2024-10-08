@@ -2,7 +2,7 @@
  
   <h3 align="center"> Hi There 👋 </h3>
   <br>
-  <p align="center">I am majoring in computer software engineering at Wonkwang University in Republic of Korea, Iksan.</p>
+  <p align="center">I am work as a developer in Republic of Korea, Seoul</p>
   <br>
   <br>
   <hr>
